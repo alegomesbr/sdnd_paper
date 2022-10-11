@@ -1,2 +1,8 @@
 # Using Transformers in Clustering Narrow Domain Short Documents
-Código do Google Colab em Breve. Deixando bonito! :)
+
+Código disponível na pasta /code/
+
+Instalações necessárias:
+
+!pip install sentence_transformers
+!pip install bertopic
